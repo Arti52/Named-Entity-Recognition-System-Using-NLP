@@ -1,2 +1,2 @@
 # Named-Entity-Recognition-System-Using-NLP
-automatically identify and classify named entities
+Understanding Named Entity Recognition (NER) in Natural Language Processing
